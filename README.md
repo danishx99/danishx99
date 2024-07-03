@@ -34,7 +34,7 @@ I'm a passionate software developer specializing in both front-end development a
 
 ## 🎨 Design Portfolio
 
-Check out my portfolio [here](www.danishsaleem.dev).
+Check out my portfolio [here]((https://www.danishsaleem.dev)).
 
 ---
 
