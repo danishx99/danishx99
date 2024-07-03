@@ -1,8 +1,6 @@
 
 # Hi there, I'm Danish 👋
 
-![Profile views](https://gpvc.arturio.dev/danishx99)
-
 I'm a passionate software developer specializing in both front-end development and back-end developmenet. I love building visually appealing and comprehensive web solutions. 
 
 ## 🚀 About Me
@@ -23,6 +21,7 @@ I'm a passionate software developer specializing in both front-end development a
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=danishx99&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishx99&layout=compact&theme=radical)
+![](https://komarev.com/ghpvc/?username=danishx99)
 
 
 ## 📫 Contact Me
