@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**danishx99/danishx99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Danish 👋
 
-Here are some ideas to get you started:
+![Profile views](https://gpvc.arturio.dev/danishx99)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate software developer specializing in both front-end development and back-end developmenet. I love building visually appealing and comprehensive web solutions. 
+
+## 🚀 About Me
+
+- 🎓 Soon-to-be graduate with a degree in BSc Computer Science.
+- 💻 Experienced in JavaScript, React.js, Node.js, and Agile methodologies
+- 🌍 Based in South Africa
+- 🔭 Currently working on a project for students to track their marks in one place
+
+## 🛠️ Skills
+
+- **Languages**: JavaScript, HTML, CSS
+- **Frameworks & Libraries**: React.js, Node.js, Express.js
+- **Tools & Platforms**: Git, GitHub, Visual Studio Code, Docker
+- **Other**: Agile methodologies, CI/CD, RESTful APIs
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=danishx99&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishx99&layout=compact&theme=radical)
+
+
+## 📫 Contact Me
+
+- Email: saleemdf99@gmail.com
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/danishsaleemx)
+- Discord: dmoney99.
+
+
+
+## 🎨 Design Portfolio
+
+Check out my portfolio [here](danishsaleem.dev).
+
+---
+
+Thank you for visiting my GitHub profile! Feel free to reach out if you'd like to collaborate or chat about tech and design.
