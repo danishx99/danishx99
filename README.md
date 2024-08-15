@@ -27,7 +27,7 @@ I'm a passionate software developer specializing in both front-end development a
 ## 📫 Contact Me
 
 - Email: saleemdf99@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/danishsaleemx)
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/danishsaleemx)
 - Discord: dmoney99.
 
 
