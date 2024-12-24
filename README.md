@@ -5,7 +5,7 @@ I'm a passionate software developer specializing in both front-end development a
 
 ## 🚀 About Me
 
-- 🎓 Soon-to-be graduate with a degree in BSc Computer Science.
+- 🎓 Recent graduate with a degree in BSc Computer Science.
 - 💻 Experienced in JavaScript, React.js, Node.js, and Agile methodologies
 - 🌍 Based in South Africa
 
@@ -13,7 +13,7 @@ I'm a passionate software developer specializing in both front-end development a
 
 - **Languages**: JavaScript, HTML, CSS
 - **Frameworks & Libraries**: React.js, Node.js, Express.js
-- **Tools & Platforms**: Git, GitHub, Visual Studio Code, Docker
+- **Tools & Platforms**: Git, GitHub, Visual Studio Code, Cursor, Docker
 - **Other**: Agile methodologies, CI/CD, RESTful APIs
 
 ## 📫 Contact Me
