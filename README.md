@@ -13,7 +13,6 @@ I'm a passionate software engineer specializing in back-end developmeent and AI.
 
 - Email: saleemdf99@gmail.com
 - LinkedIn: [LinkedIn Profile](https://linkedin.com/in/danishsaleemx)
-- Discord: dmoney99.
 
 ## 🎨 Portfolio
 
