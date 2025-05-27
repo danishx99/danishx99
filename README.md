@@ -1,20 +1,13 @@
 
 # Hi there, I'm Danish 👋
 
-I'm a passionate software developer specializing in both front-end development and back-end developmenet. I love building visually appealing and comprehensive web solutions. 
+I'm a passionate software engineer specializing in back-end developmeent and AI. I enjoy building visually appealing and comprehensive web solutions. 
 
 ## 🚀 About Me
 
 - 🎓 Recent graduate with a degree in BSc Computer Science.
-- 💻 Experienced in JavaScript, React.js, Node.js, and Agile methodologies
+- 💻 AI Solutions Engineer at Supertube, an AI Consultancy
 - 🌍 Based in South Africa
-
-## 🛠️ Skills
-
-- **Languages**: JavaScript, HTML, CSS
-- **Frameworks & Libraries**: React.js, Node.js, Express.js
-- **Tools & Platforms**: Git, GitHub, Visual Studio Code, Cursor, Docker
-- **Other**: Agile methodologies, CI/CD, RESTful APIs
 
 ## 📫 Contact Me
 
@@ -28,4 +21,4 @@ Check out my portfolio [here](https://www.danishsaleem.dev).
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to reach out.
+Thank you for visiting my GitHub profile. Feel free to reach out.
