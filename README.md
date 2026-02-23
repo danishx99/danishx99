@@ -1,23 +1,11 @@
+# Danish Saleem
 
-# Hi there, I'm Danish 👋
+**Software engineer doing AI work. AI engineer doing software work.**
 
-I'm a passionate software engineer specializing in back-end developmeent and AI. I enjoy building visually appealing and comprehensive web solutions. 
+AI Solutions Engineer at Supertube. BSc Computer Science graduate based in South Africa. I build generative AI solutions, intelligent agents, and custom software with a focus on back-end systems and applied AI.
 
-## 🚀 About Me
+## Get in Touch
 
-- 🎓 Recent graduate with a degree in BSc Computer Science.
-- 💻 AI Solutions Engineer at Supertube, an AI Consultancy
-- 🌍 Based in South Africa
-
-## 📫 Contact Me
-
+- Website: [danishsaleem.dev](https://www.danishsaleem.dev)
+- LinkedIn: [linkedin.com/in/danishsaleemx](https://linkedin.com/in/danishsaleemx)
 - Email: saleemdf99@gmail.com
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/danishsaleemx)
-
-## 🎨 Portfolio
-
-Check out my portfolio [here](https://www.danishsaleem.dev).
-
----
-
-Thank you for visiting my GitHub profile. Feel free to reach out.
