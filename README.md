@@ -7,7 +7,7 @@ AI Solutions Engineer at [Supertube](https://supertube.ai), building generative 
 ## What I'm building
 
 - **[RLCS Stats](https://github.com/danishx99/rlcs-stats)** — full-stack stats platform for the South African Rocket League Championship Series. Live at [rlesport.gg](https://rlesport.gg).
-- **[Chatbotz](https://github.com/danishx99/chatbotz_app)** — a no-code platform that lets small businesses deploy branded AI chatbots to their websites to handle customer support and capture leads 24/7. Live at [chatbotz.co.za](https://chatbotz.co.za).
+- Chatbotz — a no-code platform that lets small businesses deploy branded AI chatbots to their websites to handle customer support and capture leads 24/7. Live at [chatbotz.co.za](https://chatbotz.co.za).
 
 ## What I reach for
 
